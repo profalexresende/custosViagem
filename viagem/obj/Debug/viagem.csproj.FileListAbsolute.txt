@@ -1,0 +1,10 @@
+C:\TreinamentoC\viagem\viagem\bin\Debug\viagem.exe.config
+C:\TreinamentoC\viagem\viagem\bin\Debug\viagem.exe
+C:\TreinamentoC\viagem\viagem\bin\Debug\viagem.pdb
+C:\TreinamentoC\viagem\viagem\obj\Debug\viagem.csproj.AssemblyReference.cache
+C:\TreinamentoC\viagem\viagem\obj\Debug\viagem.Form1.resources
+C:\TreinamentoC\viagem\viagem\obj\Debug\viagem.Properties.Resources.resources
+C:\TreinamentoC\viagem\viagem\obj\Debug\viagem.csproj.GenerateResource.cache
+C:\TreinamentoC\viagem\viagem\obj\Debug\viagem.csproj.CoreCompileInputs.cache
+C:\TreinamentoC\viagem\viagem\obj\Debug\viagem.exe
+C:\TreinamentoC\viagem\viagem\obj\Debug\viagem.pdb
